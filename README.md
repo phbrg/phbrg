@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JS and Bootstrap**
 
-- 👨‍💻 All of my projects are available at [on my github and in my website](on my github and in my website)
+- 👨‍💻 All of my projects are available on my github and in my website phpedro.vercel.app
 
-- 📫 How to reach me **you can find me on phpedro.vercel.app**
+- 📫 How to reach me? **you can find me on phpedro.vercel.app**
 
 - ⚡ Fun fact **i´m a autodidact person**
 
