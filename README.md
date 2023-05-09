@@ -21,4 +21,4 @@
 <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=FFFFFF">&nbsp;
 
 <h3 align="center">Visitors</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phpedro06&label=Profile%20views&color=0e75b6&style=flat" alt="phpedro06" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=phpedro06&label=Profile%20views&color=0e75b6&style=flat" alt="phpedro06" /></p>
