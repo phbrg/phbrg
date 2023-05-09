@@ -3,7 +3,7 @@
 
 ### 📕 Skills
 
-<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=0D1117">&nbsp;
+<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html&logoColor=0D1117">&nbsp;
 <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=0066FF">&nbsp;
 <img src="https://img.shields.io/badge/Javascript-111111?style=for-the-badge&logo=javascript&logoColor=F58442">&nbsp;
 
