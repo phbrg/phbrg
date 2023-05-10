@@ -3,7 +3,7 @@
 
 ### 📕 Skills
 
-<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=0D1117">&nbsp;
+<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=FF8400">&nbsp;
 <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=0066FF">&nbsp;
 <img src="https://img.shields.io/badge/Javascript-111111?style=for-the-badge&logo=javascript&logoColor=FFFF00">&nbsp;
 
@@ -11,7 +11,7 @@
 
 <img src="https://img.shields.io/badge/Photoshop-111111?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=0066FF">&nbsp;
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-111111?style=for-the-badge&logo=visual%20studio%20code&logoColor=0066FF">&nbsp;
-<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=0D1117">&nbsp;
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=FF8400">&nbsp;
 <img src="https://img.shields.io/badge/Github-111111?style=for-the-badge&logo=github&logoColor=FFFFFF">&nbsp;
 
 ### 👨‍💻 Current learning
