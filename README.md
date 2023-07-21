@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
-<h3 align="center">A developer from Brazil</h3>
+<h3 align="center">A web developer from Brazil</h3>
 
 ### 📕 Skills
 
