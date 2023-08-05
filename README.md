@@ -20,7 +20,7 @@
 ### 👨‍💻 Current learning
 
 <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=1793EB">&nbsp;
-<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=17EBE4">&nbsp;
+<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=17EBE4">&nbsp;<br>
 <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=FFFFFF">&nbsp;
 
 <h3 align="center">Visitors</h3>
