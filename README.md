@@ -26,3 +26,4 @@
 
 ### 📊 Github stats
 <img src="https://komarev.com/ghpvc/?username=phpedro06&label=Profile%20views&color=0e75b6&style=flat" alt="phpedro06" /><br>
+<img src="https://github-readme-stats.vercel.app/api?username=phpedro06&theme=blue-green">
