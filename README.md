@@ -26,3 +26,5 @@
 
 <h3 align="center">Visitors</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=phpedro06&label=Profile%20views&color=0e75b6&style=flat" alt="phpedro06" />&nbsp;
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=phpedro06">
