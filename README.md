@@ -24,5 +24,5 @@
 <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=17EBE4">&nbsp;<br>
 <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=FFFFFF">&nbsp;
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=phpedro06&label=Profile%20views&color=0e75b6&style=flat" alt="phpedro06" /><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=phpedro06">
+<img src="https://komarev.com/ghpvc/?username=phpedro06&label=Profile%20views&color=0e75b6&style=flat" alt="phpedro06" /><br>
+<img src="https://github-readme-stats.vercel.app/api?username=phpedro06">
