@@ -7,7 +7,6 @@
 <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=0066FF">&nbsp;
 <img src="https://img.shields.io/badge/Sass-111111?style=for-the-badge&logo=sass&logoColor=CC6699">&nbsp;<br>
 <img src="https://img.shields.io/badge/Javascript-111111?style=for-the-badge&logo=javascript&logoColor=FFFF00">&nbsp;
-<img src="https://img.shields.io/badge/npm-111111?style=for-the-badge&logo=npm&logoColor=FF0000">&nbsp;<br>
 
 ### 🔨 Tools
 
