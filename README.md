@@ -19,9 +19,9 @@
 ### 👨‍💻 Current learning
 
 <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=17EBE4">&nbsp;
-<img src="https://img.shields.io/badge/Next js-111111?style=for-the-badge&logo=nextdotjs&logoColor=fff">&nbsp;
+<img src="https://img.shields.io/badge/Next js-111111?style=for-the-badge&logo=nextdotjs&logoColor=fff">&nbsp;<br>
 <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=1793EB">&nbsp;
-<img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodejs&logoColor=237049">&nbsp;<br>
+<img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=237049">&nbsp;<br>
 <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=FFFFFF">&nbsp;
 
 ### 📊 Github stats
