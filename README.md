@@ -1,28 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pedro</h1>
-<h3 align="center">A web developer from Brazil</h3>
+# Hello and welcome to my github profile 👋
+## My name is Pedro, I'm 17 years and I'm from São Paulo, Brazil. I'm a webdeveloper trying to reach the fullstack position. I'm currently studying node.js and data bases (sql, mongo). I pretend to improve my typescript knowledge and study react and next js as soon as possible.
 
-### 📕 Skills
-
-<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=FF8400">&nbsp;
-<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=0066FF">&nbsp;
-<img src="https://img.shields.io/badge/Sass-111111?style=for-the-badge&logo=sass&logoColor=CC6699">&nbsp;<br>
-<img src="https://img.shields.io/badge/Javascript-111111?style=for-the-badge&logo=javascript&logoColor=FFFF00">&nbsp;
-
-### 🔨 Tools
-
-<img src="https://img.shields.io/badge/Photoshop-111111?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=0066FF">&nbsp;
-<img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=FF8400">&nbsp;<br>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-111111?style=for-the-badge&logo=visual%20studio%20code&logoColor=0066FF">&nbsp;
-<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=FF8400">&nbsp;
-<img src="https://img.shields.io/badge/Github-111111?style=for-the-badge&logo=github&logoColor=FFFFFF">&nbsp;
-
-### 👨‍💻 Current learning
-
-<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=17EBE4">&nbsp;
-<img src="https://img.shields.io/badge/Next js-111111?style=for-the-badge&logo=nextdotjs&logoColor=fff">&nbsp;<br>
-<img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=1793EB">&nbsp;
-<img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=237049">&nbsp;<br>
-<img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=FFFFFF">&nbsp;
-
-### 📊 Github stats
-<img src="https://komarev.com/ghpvc/?username=phpedro06&label=Profile%20views&color=0e75b6&style=flat" alt="phpedro06" /><br>
+## Hard skills
+> teste
