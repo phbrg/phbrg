@@ -19,4 +19,4 @@
 
 ## 📞 Reach me
 
-[Personal portfolio](https://phpedro.vercel.app)
+[Personal portfolio](https://phpedro.vercel.app) `all my contacts are here` 
