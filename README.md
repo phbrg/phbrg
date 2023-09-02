@@ -1,5 +1,5 @@
 # Hello and welcome to my github profile 👋
-> My name is Pedro, I'm 17 years and I'm from São Paulo, Brazil. I'm a webdeveloper trying to reach the fullstack position. I'm currently studying node.js and data bases (sql, mongo). I pretend to improve my typescript knowledge and study react and next js as soon as possible.
+> My name is Pedro, I'm 17 years old and a passionate web developer on a journey to master the art of full-stack development. I'm currently finishing an node.js and data bases (sql, mongo) course. I'm actively working on enhancing my TypeScript skills to build robust and statically typed applications. My next goal is to dive deep into React and Next.js to create dynamic and efficient user interfaces.
 
 ## 🔨 Hard skills
 <ul>
@@ -16,3 +16,7 @@
   <li><img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=ff4800"></li>
   <li><img src="https://img.shields.io/badge/Github-111111?style=for-the-badge&logo=github&logoColor=FFFFFF"></li>
 </ul>
+
+## 📞 Reach me
+
+[Personal portfolio](https://phpedro.vercel.app)
