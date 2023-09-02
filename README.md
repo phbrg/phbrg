@@ -20,3 +20,7 @@
 ## 📞 Reach me
 
 [Personal portfolio](https://phpedro.vercel.app) `all my contacts are here` 
+
+## 📊 Github stats
+
+<img src="https://komarev.com/ghpvc/?username=phpedro06&label=Profile%20views&color=0e75b6&style=flat" alt="phpedro06" /><br>
