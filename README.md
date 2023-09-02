@@ -3,10 +3,10 @@
 
 ## 🔨 Hard skills
 <ul>
-  <li><img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=FF7B00"></li>
-  <li><img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=0066FF"></li>
-  <li><img src="https://img.shields.io/badge/Sass-111111?style=for-the-badge&logo=sass&logoColor=CC6699"></li>
-  <li>![a](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</li>
+  <li><img src="https://img.shields.io/badge/HTML5-FF7B00?style=for-the-badge&logo=html5&logoColor=white"></li>
+  <li><img src="https://img.shields.io/badge/CSS3-0066FF?style=for-the-badge&logo=css3&logoColor=white"></li>
+  <li><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=black"></li>
+  <li><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></li>
 </ul>
 
 ## 💻 Tools
