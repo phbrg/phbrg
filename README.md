@@ -2,8 +2,7 @@
 > My name is Pedro, I'm 17 years old and a passionate web developer on a journey to master the art of full-stack development. I'm currently finishing a node.js and data bases (sql, mongo) course. I'm actively working on enhancing my TypeScript skills to build robust and statically typed applications. My next goal is to dive deep into React and Next.js to create dynamic and efficient user interfaces.
 
 ## 🔨 Hard skills
-<div style="display: flex; flex-direction: row;">
-  <ul>
+<ul>
   <li><img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=FF7B00"></li>
   <li><img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=0066FF"></li>
   <li><img src="https://img.shields.io/badge/Sass-111111?style=for-the-badge&logo=sass&logoColor=CC6699"></li>
@@ -15,9 +14,8 @@
 </ul>
 <ul>
   <li><img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=FFF"></li>
-  <li><img src="https://img.shields.io/badge/Sequelize-111111?style=for-the-badge&logo=sequelize&logoColor=1100FF"></li>
+  <li><img src="https://img.shields.io/badge/Sequelize-111111?style=for-the-badge&logo=sequelize&logoColor=0066ff"></li>
 </ul>
-</div>
 
 ## 💻 Tools
 <ul>
