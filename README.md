@@ -13,7 +13,7 @@
   <li><img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=FFF"></li>
 </ul>
 <ul>
-  <li><img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=0066FF"></li>
+  <li><img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=FFF"></li>
   <li><img src="https://img.shields.io/badge/Sequelize-111111?style=for-the-badge&logo=sequelize&logoColor=1100FF"></li>
 </ul>
 
