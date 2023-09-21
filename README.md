@@ -14,6 +14,7 @@
 </ul>
 <ul>
   <li><img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=FFF"></li>
+  <li><img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=03A5FC"></li>
   <li><img src="https://img.shields.io/badge/Sequelize-111111?style=for-the-badge&logo=sequelize&logoColor=0066ff"></li>
 </ul>
 
