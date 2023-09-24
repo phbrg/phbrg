@@ -24,6 +24,7 @@
   <li><img src="https://img.shields.io/badge/Photoshop-111111?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=0066FF"></li>
   <li><img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=ff4800"></li>
   <li><img src="https://img.shields.io/badge/Github-111111?style=for-the-badge&logo=github&logoColor=FFFFFF"></li>
+  <li><img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=FF7B00"></li>
 </ul>
 
 ## 📞 Reach me
