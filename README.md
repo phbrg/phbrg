@@ -8,14 +8,14 @@
   <li><img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=FFF"></li>
 </ul>
 <ul>
-  <li><img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=FF7B00"></li>
-  <li><img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=0066FF"></li>
-  <li><img src="https://img.shields.io/badge/Sass-111111?style=for-the-badge&logo=sass&logoColor=CC6699"></li>
-</ul>
-<ul>
   <li><img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=FFF"></li>
   <li><img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=03A5FC"></li>
   <li><img src="https://img.shields.io/badge/Sequelize-111111?style=for-the-badge&logo=sequelize&logoColor=0066ff"></li>
+</ul>
+<ul>
+  <li><img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=FF7B00"></li>
+  <li><img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=0066FF"></li>
+  <li><img src="https://img.shields.io/badge/Sass-111111?style=for-the-badge&logo=sass&logoColor=CC6699"></li>
 </ul>
 
 ## 💻 Tools
