@@ -1,5 +1,5 @@
 # Hello and welcome to my github profile 👋
-> My name is Pedro, I'm 17 years old and a passionate web developer on a journey to master the art of full-stack development. I'm currently finishing a node.js and data bases (sql, mongo) course. My next goal is to dive deep into Typescript, React and Next.js to create dynamic and efficient user interfaces.
+> My name is Pedro, I'm 17 years old and a passionate web developer. I'm on a journey to become a full-stack developer, focusing on web backend development. Currently, I'm refining my skills in Node.js and exploring React.js. In the last six months, I've intensified my efforts to enhance my expertise, particularly in Node.js. Being bilingual and self-taught, I find constant motivation in exploring new horizons across diverse knowledge domains.
 
 ## 🔨 Hard skills
 <ul>
