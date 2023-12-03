@@ -12,8 +12,6 @@
 
 ### 📞 Reach me
 
-[Personal portfolio](https://phpedro.vercel.app)
-<br>
 [Email](mailto:pedrohenriquebatistabergamin@gmail,com)
 <br>
 [Portfolio](https://phpedro.vercel.app)
