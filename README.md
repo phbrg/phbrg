@@ -7,12 +7,15 @@
 
 ### 💻 Tools
 ![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=FFF) ![Photoshop](https://img.shields.io/badge/Photoshop-111111?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=0066FF)
+<br>
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=ff4800) ![Github](https://img.shields.io/badge/Github-111111?style=for-the-badge&logo=github&logoColor=FFFFFF) ![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=FF7B00)
 
 ### 📞 Reach me
 
-[Personal portfolio](https://phpedro.vercel.app) 
+[Personal portfolio](https://phpedro.vercel.app)
+<br>
 [Email](mailto:pedrohenriquebatistabergamin@gmail,com)
+<br>
 [Portfolio](https://phpedro.vercel.app)
 
 ### 📊 Github stats
