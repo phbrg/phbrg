@@ -14,7 +14,7 @@
 
 [Email](mailto:pedrohenriquebatistabergamin@gmail,com)
 <br>
-[Portfolio](https://phpedro.vercel.app)
+[Portfolio](https://phbrg.vercel.app)
 
 ### 📊 Github stats
 
