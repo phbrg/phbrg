@@ -2,8 +2,8 @@
 
 ### 📚 Knowledge
 
-> Node.js | React.js
-> PostgreSQL | MySQL | Sequelize.js
+> Node.js | React.js <br/>
+> PostgreSQL | MySQL | Sequelize.js <br/>
 > JavaScript | SQL | HTML | CSS | SASS
 
 ### 🔗 Links
