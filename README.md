@@ -2,9 +2,7 @@
 
 ### 📚 Knowledge
 
-<b>Node.js | React.js</b> <br/>
-<b>PostgreSQL | MySQL | Sequelize.js</b> <br/>
-<b>JavaScript | SQL | HTML | CSS | SASS</b>
+<b>Node.js | React.js | PostgreSQL | MySQL | Sequelize.js | JavaScript | SQL | HTML | CSS | SASS</b>
 
 ### 🔗 Links
 
