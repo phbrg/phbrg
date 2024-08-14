@@ -1,13 +1,13 @@
 ```
-console.log('Hello world!');
+console.log('Hello World');
 
-# Stack
+> my name is pedro henrique, i'm from são paulo and i'm currently studying software engineering at FIAP
 
-- Nest | Node.js | React.js | SASS
-- TypeScript | JavaScript | HTML5 | CSS3
-- SQL | MySQL | PostgreSQL | Sequelize ORM | Prisma ORM | Type ORM
+> skills
+ - node, nest, react
+ - typescript, sql
+ - mysql, postgresql, sequelize orm, Prisma orm, Type orm
 
-# Find me
-
-[Website](https://phbrg.vercel.app)
+> find me
 ```
+ - [website](https://phbrg.vercel.app/)
