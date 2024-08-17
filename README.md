@@ -1,4 +1,4 @@
-```
+<samp>
 console.log('Hello World');
 
 > my name is pedro henrique, i'm from são paulo and i'm currently studying software engineering at FIAP
@@ -10,4 +10,4 @@ console.log('Hello World');
 
 > find me
  - [website](https://phbrg.vercel.app/)
-```
+</samp>
