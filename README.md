@@ -1,4 +1,4 @@
-console.log('Hello World');<br>
+console.log('Hello World');
 
 my name is pedro henrique, i'm from são paulo and i'm currently studying software engineering at FIAP
 
