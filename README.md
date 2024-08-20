@@ -6,7 +6,7 @@ console.log('Hello World');
 > skills
  - node, nest, react
  - typescript, sql
- - mysql, postgresql, sequelize orm, Prisma orm, Type orm
+ - mysql, postgresql, sequelize orm, prisma orm, type orm
 
 > find me
  - [website](https://phbrg.vercel.app/)
