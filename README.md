@@ -1,14 +1,17 @@
+
 ## Hello world! 👋
-🤖 My name is Pedro Henrique I'm from São Paulo, Brazil and I'm currently a intern at Cognizant and I'm studying Software Engineering at FIAP
+> 🤖 My name is Pedro Henrique I'm from São Paulo, Brazil and I'm currently a intern at Cognizant and I'm studying Software Engineering at FIAP
 
 ### 👨‍💻 Knowledge
-![NestJS](https://img.shields.io/badge/NestJs-111111?style=for-the-badge&logo=nestjs&logoColor=FC035E) ![React.js](https://img.shields.io/badge/React.js-111111?style=for-the-badge&logo=react&logoColor=42C2F5) ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=32A852) <br> ![Sequelize](https://img.shields.io/badge/Sequelize-111111?style=for-the-badge&logo=sequelize&logoColor=0066ff) ![Prisma](https://img.shields.io/badge/Prisma-111111?style=for-the-badge&logo=Prisma&logoColor=03a1fc) ![TypeORM](https://img.shields.io/badge/TypeORM-111111?style=for-the-badge&logo=typeorm&logoColor=ff0000) ![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=FFF) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=03A5FC) <br> ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=0066FF) ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=03d3fc)
 
+**Nest** | **React.js** | **Node.js** </br>
+**Sequelize.js** | **Prisma ORM** | **TypeORM** </br>
+**MySQL** | **PostgreSQL** </br>
+**C#** | **TypeScript** 
 
 ### 📲 Reach me
 
-<a href="https://phbrg.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=rss&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/pedro-henrique-b-bergamin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+[Portfolio](https://phbrg.vercel.app) | [Linkedin](https://www.linkedin.com/in/pedro-henrique-b-bergamin/)
 
 ### 📈 Github stats
 
