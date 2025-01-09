@@ -5,7 +5,7 @@
 ### 👨‍💻 Knowledge
 
 **Nest** | **React.js** | **Node.js** </br>
-**Sequelize.js** | **Prisma ORM** | **TypeORM** </br>
+**Sequelize.js** | **Prisma ORM** </br>
 **MySQL** | **PostgreSQL** </br>
 **C#** | **TypeScript** 
 
