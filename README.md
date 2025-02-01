@@ -7,7 +7,7 @@
 **Nest** | **React.js** | **Node.js** </br>
 **Sequelize.js** | **Prisma ORM** </br>
 **MySQL** | **PostgreSQL** </br>
-**C#** | **TypeScript** 
+**C#** | **TypeScript** | **Python**
 
 ### 📲 Reach me
 
