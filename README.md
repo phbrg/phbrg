@@ -1,18 +1,9 @@
+### Pedro Henrique 
+> *Apprentice @Cognizant,  Software Engineering student @FIAP, Node.js Lover* 🐢 
 
-## Hello world! 👋
-> 🤖 My name is Pedro Henrique I'm from São Paulo, Brazil and I'm currently a intern at Cognizant and I'm studying Software Engineering at FIAP
+**Check out some of my notable projects:**
+1. [ShiftNews](https://github.com/phbrg/shift-news): a blog API inspired in [Tabnews](https://www.tabnews.com.br/), developed in Node.js (Nest), Prisma and PostgreSQL
+2. [SabaraAPI](https://github.com/phbrg/sabaraAPI): an API that replicates an ERP system, developed in Python, FastAPI, and PostgreSQL
+3. [Arkadius](https://github.com/phbrg/arkadius): a social network for creating and sharing personalized profiles, developed in MVC with Node.js (Express), SequelizeJS, and MySQL 
 
-### 👨‍💻 Knowledge
-
-**Nest** | **React.js** | **Node.js** </br>
-**Sequelize.js** | **Prisma ORM** </br>
-**MySQL** | **PostgreSQL** </br>
-**TypeScript** | **Python**
-
-### 📲 Reach me
-
-[Portfolio](https://phbrg.vercel.app) | [Linkedin](https://www.linkedin.com/in/pedro-henrique-b-bergamin/)
-
-### 📈 Github stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phbrg&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=true&text_color=fff&icon_color=fff&title_color=fff&bg_color=0d1117&show_icons=true")
+You can find out more about me and contact me through my portfolio: [phbrg.vercel.app](https://phbrg.vercel.app)
